@@ -43,3 +43,10 @@
 ## 打赏
 要是客官抢到了茅台，心情好，请我喝一杯咖啡好不好:)  
 ![收款二维码](https://github.com/zqjzqj/mtSecKill/blob/master/zqijun.png)
+
+## 附录：
+
+* 获取京东服务器时间
+```shell
+https://api.m.jd.com/client.action?functionId=queryMaterialProducts&client=wh5
+```
